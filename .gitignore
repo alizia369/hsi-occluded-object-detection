@@ -1,0 +1,28 @@
+# MATLAB autosave / crash files
+*.asv
+*.m~
+*.autosave
+hs_err_pid*.log
+slprj/
+codegen/
+
+# Data and outputs are not versioned (see data/README.md)
+data/*
+!data/README.md
+results/
+Results/
+
+# Raw hyperspectral cubes and large binaries
+*.dat
+*.hdr
+*.bsq
+*.raw
+*.avi
+*.mp4
+*.zip
+*.rar
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini

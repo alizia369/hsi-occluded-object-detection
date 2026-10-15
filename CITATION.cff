@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Occluded Object Detection in Hyperspectral Images"
+type: software
+authors:
+  - family-names: "Zia"
+    given-names: "Ali"
+repository-code: "https://github.com/alizia369/hsi-occluded-object-detection"
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Exploring Extrinsic Spectral Properties of Hyperspectral Image for 3D Computer Vision"
+  authors:
+    - family-names: "Zia"
+      given-names: "Ali"
+  year: 2020
+  institution:
+    name: "Griffith University"
+  thesis-type: "PhD thesis"
+  url: "https://research-repository.griffith.edu.au/items/6c4ccabf-f952-4780-8592-ac6f8ea62dae"
